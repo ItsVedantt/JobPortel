@@ -2,7 +2,7 @@
 
 > A curated career acceleration marketplace designed for **CSE AI/ML and Cybersecurity students & freshers** to discover verified internships, remote opportunities, and entry-level positions worldwide.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://devserver-main--poetic-tarsier-a41276.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://poetic-tarsier-a41276.netlify.app/)
 [![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -12,7 +12,7 @@
 ## 🌐 Live Prototype Demo
 
 Explore the working prototype hosted on Netlify:  
-👉 **[Launch Live Demo]([https://devserver-main--poetic-tarsier-a41276.netlify.app/](https://poetic-tarsier-a41276.netlify.app))**
+👉 **[https://poetic-tarsier-a41276.netlify.app](https://poetic-tarsier-a41276.netlify.app/)**
 
 ---
 
