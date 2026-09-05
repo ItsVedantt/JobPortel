@@ -12,7 +12,7 @@
 ## 🌐 Live Prototype Demo
 
 Explore the working prototype hosted on Netlify:  
-👉 **[Launch Live Demo](https://devserver-main--poetic-tarsier-a41276.netlify.app/)**
+👉 **[Launch Live Demo]([https://devserver-main--poetic-tarsier-a41276.netlify.app/](https://poetic-tarsier-a41276.netlify.app))**
 
 ---
 
